@@ -5,8 +5,6 @@ date: 2024-03-29
 
 More cool stuff I found online. 
 
-<-- more -->
-
 Reading thru this [tutorial](https://processing.org/tutorials/network) from Processing about net art and they start out with a surprisingly in-depth brief on 90s internet art. 
 
 ### jodi.org
