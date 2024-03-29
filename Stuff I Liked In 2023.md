@@ -1,3 +1,6 @@
+---
+title: Stuff I Liked In 2023
+---
 stuff i liked this year
 # Dennis Cooper
 it's like something was missing from my life before I read _Frisk_. ive never had to read everything  
