@@ -1,5 +1,6 @@
 ---
-title: Cool Links 2024/3/25
+title: Cool Links
+date: 2024-03-25
 ---
 Instead of doing work today here's stuff i found online
 
