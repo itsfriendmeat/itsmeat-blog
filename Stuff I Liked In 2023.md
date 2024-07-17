@@ -3,6 +3,8 @@ title: Stuff I Liked In 2023
 date: 2023-12-01
 img: https://i.postimg.cc/Ls134BNZ/96384271.jpg
 alt: The cover of Dennis Cooper's Period
+tags:
+    - likes
 ---
 stuff i liked this year
 
