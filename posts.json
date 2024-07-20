@@ -1,5 +1,5 @@
 {
     "tags":"posts",
-    "layout": "post",
+    "layout": "blog/post",
     "permalink": "blog/{{ date|slugifyDate}}/{{ title|slugify }}/"
 }
