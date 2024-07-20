@@ -1,6 +1,8 @@
 ---
 title: Cool Links 3/29
 date: 2024-03-29
+tags:
+    - links
 ---
 
 More cool stuff I found online. 
